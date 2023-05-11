@@ -1,7 +1,7 @@
 {
+  "homepage": "http://lacouleur.github.io/sitefolio",
   "name": "sitefolio",
   "version": "0.1.0",
-  "homepage": "http://lacouleur.github.io/sitefolio",
   "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",

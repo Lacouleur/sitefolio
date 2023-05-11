@@ -274,12 +274,12 @@
     "7": {
       "id": "landscapes-7",
       "title": {
-        "fr": "magie alien",
-        "en": "alien's magic"
-      },
-      "subtitle": {
         "fr": "finalement, nous ne sommes pas seuls",
         "en": "finally, we are not alone"
+      },
+      "subtitle": {
+        "fr": "paysages / scènes",
+        "en": "landscapes / scenes"
       },
       "medium": "digital"
     }
@@ -334,7 +334,7 @@
       "medium": "digital"
     },
     "5": {
-      "id": "personal-4",
+      "id": "personal-5",
       "title": {
         "fr": "pieuvre holistique",
         "en": "holistic octopus"
@@ -346,10 +346,22 @@
       "medium": "digital"
     },
     "6": {
-      "id": "personal-4",
+      "id": "personal-6",
       "title": {
         "fr": "totems",
         "en": "totems"
+      },
+      "subtitle": {
+        "fr": "travaux personnels et recherches",
+        "en": "personal work and research"
+      },
+      "medium": "digital"
+    },
+    "7": {
+      "id": "personal-7",
+      "title": {
+        "fr": "masque-amour",
+        "en": "love masks"
       },
       "subtitle": {
         "fr": "travaux personnels et recherches",
