@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.96e59222.css",
-    "main.js": "/static/js/main.4047ba7b.js",
-    "static/media/Instagram.svg": "/static/media/Instagram.eecf259e8a6adc4f1a6d18f212ff5549.svg",
-    "static/media/Cancel.svg": "/static/media/Cancel.7302895074148c238aa3301998e93711.svg",
-    "index.html": "/index.html",
-    "static/media/Down.svg": "/static/media/Down.a2b23680067975fd4bdea568ad9bf5bf.svg",
-    "static/media/Left.svg": "/static/media/Left.21d591e990e97a4278f987c5893cd2d4.svg",
-    "static/media/Right.svg": "/static/media/Right.a1a3d6421d3ca802b2be7c2fa38cf495.svg",
-    "static/media/Mail.svg": "/static/media/Mail.93e7ba89f4cb0d4755dc2118d499fec6.svg",
-    "static/media/Artstation.svg": "/static/media/Artstation.24d8f92f425ee109dbff94c8e387fcb2.svg",
-    "main.96e59222.css.map": "/static/css/main.96e59222.css.map",
-    "main.4047ba7b.js.map": "/static/js/main.4047ba7b.js.map"
+    "main.css": "/sitefolio/static/css/main.96e59222.css",
+    "main.js": "/sitefolio/static/js/main.605ed7a5.js",
+    "static/media/Instagram.svg": "/sitefolio/static/media/Instagram.eecf259e8a6adc4f1a6d18f212ff5549.svg",
+    "static/media/Cancel.svg": "/sitefolio/static/media/Cancel.7302895074148c238aa3301998e93711.svg",
+    "index.html": "/sitefolio/index.html",
+    "static/media/Down.svg": "/sitefolio/static/media/Down.a2b23680067975fd4bdea568ad9bf5bf.svg",
+    "static/media/Left.svg": "/sitefolio/static/media/Left.21d591e990e97a4278f987c5893cd2d4.svg",
+    "static/media/Right.svg": "/sitefolio/static/media/Right.a1a3d6421d3ca802b2be7c2fa38cf495.svg",
+    "static/media/Mail.svg": "/sitefolio/static/media/Mail.93e7ba89f4cb0d4755dc2118d499fec6.svg",
+    "static/media/Artstation.svg": "/sitefolio/static/media/Artstation.24d8f92f425ee109dbff94c8e387fcb2.svg",
+    "main.96e59222.css.map": "/sitefolio/static/css/main.96e59222.css.map",
+    "main.605ed7a5.js.map": "/sitefolio/static/js/main.605ed7a5.js.map"
   },
   "entrypoints": [
     "static/css/main.96e59222.css",
-    "static/js/main.4047ba7b.js"
+    "static/js/main.605ed7a5.js"
   ]
 }
